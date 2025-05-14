@@ -1,4 +1,4 @@
-## Olá!, Eu Sou o Caio Moraes ✋
+## Olá!, Eu Sou Caio Moraes ✋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-moraes-4011b6226/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiovmoraes16@gmail.com)
